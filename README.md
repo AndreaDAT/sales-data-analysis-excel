@@ -1,3 +1,5 @@
+## 🖼 Dashboard Preview
+![Sales Dashboard](<img width="1322" height="546" alt="Sales" src="https://github.com/user-attachments/assets/fd871d1c-17cc-480f-801e-a0d6493201fa" />)
 
 📊 Annual Sales Data Analytics
 
