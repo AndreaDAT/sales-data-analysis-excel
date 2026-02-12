@@ -1,6 +1,6 @@
 📊 Annual Sales Data Analysis
 
-![Gráfico de análisis de ventas](sales.PNG)\n\n# Sales Data Analysis\n\nThis project analyzes sales data using Excel. It includes various features and methodologies to analyze and visualize the data.
+![Gráfico de análisis de ventas](sales.PNG)
 
 🎯 Contexto
 
